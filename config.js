@@ -2,7 +2,7 @@ module.exports = {
   showStats: false, // Booleen | true / false
 	website: {
 		protocol: 'https://', // https:// or http://
-		domain: 'bot-website-template-ejs-2.lightgod679.repl.co', // website link without protocol ex. bot-website.tejas1794.repl.co
+		domain: 'something.com', // website link without protocol ex. bot-website.tejas1794.repl.co
 		port: 3000,
     cookieSecret: 'ipprecise' // Cookie secret | charaters used store client data
 	},
